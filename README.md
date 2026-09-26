@@ -13,4 +13,3 @@ This is discord bot with cogs. you can use this repo as a base for your project
 
 After installing and setting up token run command `python3 main.py`
 
-[Test Commit]
